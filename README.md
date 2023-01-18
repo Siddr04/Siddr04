@@ -9,7 +9,7 @@
   - 💬 I have good command over C++, JAVA and have intermediate knowledge of React, NodeJs and Express 
   - 📫 You can [mail](mailto:siddhantraj04@gmail.com) me for anything!
 
-## 💻 Also, here are the other places where you can find me: 
+## 💻 Here are the other places where you can find me: 
 <p align="center">
 <a href="https://www.linkedin.com/in/siddhant-raj-93a2101b1/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="Siddhant" height="40" width="40"/></a>
 <a href="https://codeforces.com/profile/Fury_04" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Fury_04" height="40" width="40" /></a>
