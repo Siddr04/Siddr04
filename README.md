@@ -4,7 +4,7 @@
 
 ---
 
-  - 🙂 I am a Computer Science Sophomore at IIIT Jabalpur
+  - 🙂 I am a Computer Science undergrad at IIIT Jabalpur
   - 🔭 I Like solving problems and building projects :P
   - 💬 I have good command over C++, JAVA and have intermediate knowledge of React, NodeJs and Express 
   - 📫 You can [mail](mailto:siddhantraj04@gmail.com) me for anything!
